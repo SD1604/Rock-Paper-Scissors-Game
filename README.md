@@ -4,7 +4,7 @@ A classic Rock Paper Scissors game against a computer opponent.
 
 ## 🔗 Live Link
 
-[Play the game here!](PASTE_YOUR_LINK_HERE)
+[Play the game here!](https://sd1604.github.io/Rock-Paper-Scissors-Game/)
 
 ## 🎮 How to Play
 
